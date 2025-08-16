@@ -1,6 +1,3 @@
-# Agente-SQL
-🔹 Projeto: Python 🐍 + SQL 🗄️ + FastAPI ⚡ + HTML 🌐 + OpenAI 🤖 Rodando 100% local, pronto para transformar ideias em queries.
-
 # 🧠 Agente SQL com IA e Linguagem Natural
 
 Projeto desenvolvido como desafio prático para criar um **agente de IA** capaz de interpretar perguntas em linguagem natural e transformá-las em **consultas SQL** executáveis em um banco de dados real.
