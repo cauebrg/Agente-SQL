@@ -1,0 +1,6 @@
+# requirements.txt
+pandas
+openai
+streamlit
+mysql-connector-python
+faker
